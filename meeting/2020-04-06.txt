@@ -1,0 +1,9 @@
+Review:
+	Alan: Working on the bonus selection page
+	Ray:  Finalized the QR sharing feature with Rainne
+	Charlie: Working on the SWIFTUI: Stores list and Store Networking page. Done with Union pay flow.
+
+Plan:
+	Alan: Refactoring Bonus selection UI and function call
+	Ray: Research taking government id photos like depositing check 
+	Charlie: Work on iOS. Will show the bonus selection flow and new protocol tomorrow. Finish new customer flow this week.
